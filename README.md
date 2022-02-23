@@ -1,5 +1,4 @@
-# MoS<sub>2</sub>
-Refractive Index / Complex Electrical Permittivity / Conductivity of monolayer MoS<sub>2</sub>
+# Refractive Index / Complex Electrical Permittivity / Conductivity of monolayer MoS<sub>2</sub>
 
 This python code calculates refractive index and/or complex electrical permittivity and/or conductivity of monolayer MoS<sub>2</sub> as functions of wavelength (m), Fermi Energy level (eV), and temperature (K), in the visible and near-infrared parts of the electromagnetic spectrum (400 nm - 1.2 um)
 
